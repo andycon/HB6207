@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Mon Jan 30 15:59:42 EST 2023 | `set up meetings with Tor for later this week`
 Mon Jan 30 15:51:42 EST 2023 | `set up Kodi with admin rights on dbic-mrinbox and on commissure`
 Mon Jan 30 15:51:16 EST 2023 | `met with JD to help with BIDs conversion of hyperscanning data`
 Mon Jan 30 15:50:47 EST 2023 | `met with courtney this morning for weekly check in`
