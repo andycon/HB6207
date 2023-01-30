@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Mon Jan 30 15:51:16 EST 2023 | `met with JD to help with BIDs conversion of hyperscanning data`
 Mon Jan 30 15:50:47 EST 2023 | `met with courtney this morning for weekly check in`
 Mon Jan 30 15:50:27 EST 2023 | `set kodi up with dblog on github for monitoring sys admin events while I am away`
 Mon Jan 30 15:49:52 EST 2023 | `Met with Kodi today to go over checking status of data storage and handling DBIC user credentials`
