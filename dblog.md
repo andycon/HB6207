@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Mon Jan 30 15:50:27 EST 2023 | `set kodi up with dblog on github for monitoring sys admin events while I am away`
 Mon Jan 30 15:49:52 EST 2023 | `Met with Kodi today to go over checking status of data storage and handling DBIC user credentials`
 Fri Jan 27 15:44:17 EST 2023 | `met with Kodi about sys admin training made dsome progress will meet again monday`
 Fri Jan 27 15:43:20 EST 2023 | `collected fMRI test data for reprostim this morning with YOH`
