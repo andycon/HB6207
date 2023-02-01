@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Wed Feb 1 16:22:42 EST 2023 | `submitted jobs on Discovery to compute ROI mean ts for HCP there is heavy usage on slurm 100 jobs pending`
 Wed Feb 1 16:21:32 EST 2023 | `Met with Terry to set up new dicom node for sending data`
 Wed Feb 1 12:21:32 EST 2023 | `updated permissions updating script on mrinbox`
 Wed Feb 1 11:53:33 EST 2023 | `updated reprovid sort cron job on inbox`
