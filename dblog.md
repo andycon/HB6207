@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Wed Feb 1 16:21:32 EST 2023 | `Met with Terry to set up new dicom node for sending data`
 Wed Feb 1 12:21:32 EST 2023 | `updated permissions updating script on mrinbox`
 Wed Feb 1 11:53:33 EST 2023 | `updated reprovid sort cron job on inbox`
 Tue Jan 31 10:09:48 EST 2023 | `zpool status check on commissure OK`
