@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Thu Feb 2 18:38:43 EST 2023 | `restarted sending dicoms to discovery but could not get ssh to work with the slurm scheduler`
 Thu Feb 2 18:38:08 EST 2023 | `submitted large stack of jobs to discovery for HCP analysis`
 Thu Feb 2 18:37:36 EST 2023 | `rescheuled meeting with Tor`
 Wed Feb 1 16:22:42 EST 2023 | `submitted jobs on Discovery to compute ROI mean ts for HCP there is heavy usage on slurm 100 jobs pending`
