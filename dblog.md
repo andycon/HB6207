@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Fri Feb 3 15:40:24 EST 2023 | `I am testing bids conversion tool heudiconv on discovery`
 Fri Feb 3 15:39:48 EST 2023 | `all data backups are up to date`
 Fri Feb 3 15:36:30 EST 2023 | `commissure is online`
 Fri Feb 3 15:36:15 EST 2023 | `checked inbox zpool no trouble`
