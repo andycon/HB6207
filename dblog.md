@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Tue Feb 21 12:40:49 EST 2023 | `finished cleaning up email after vaca`
 Fri Feb 3 15:40:24 EST 2023 | `I am testing bids conversion tool heudiconv on discovery`
 Fri Feb 3 15:39:48 EST 2023 | `all data backups are up to date`
 Fri Feb 3 15:36:30 EST 2023 | `commissure is online`
