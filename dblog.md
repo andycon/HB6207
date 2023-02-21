@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Tue Feb 21 13:43:12 EST 2023 | `Responded to Carmens email about access to UKBiobank folder on discovery`
 Tue Feb 21 13:37:31 EST 2023 | `Granted DBIC permission groups for Tory Benson on Discovery`
 Tue Feb 21 12:40:49 EST 2023 | `finished cleaning up email after vaca`
 Fri Feb 3 15:40:24 EST 2023 | `I am testing bids conversion tool heudiconv on discovery`
