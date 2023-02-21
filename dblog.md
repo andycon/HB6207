@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Tue Feb 21 14:39:49 EST 2023 | `attended meeting repro stuff from 1 to 2pm`
 Tue Feb 21 14:39:28 EST 2023 | `met with Yarik about reprostim and about heudiconv conversion pipeline`
 Tue Feb 21 13:43:12 EST 2023 | `Responded to Carmens email about access to UKBiobank folder on discovery`
 Tue Feb 21 13:37:31 EST 2023 | `Granted DBIC permission groups for Tory Benson on Discovery`
