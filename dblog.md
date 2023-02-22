@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Wed Feb 22 09:48:28 EST 2023 | `addressed JDs question about byeols perms on /dartfs/rc/lab/D/DBIC/DBIC/archive/tmp/1001_Psych60-S2023`
 Tue Feb 21 14:40:28 EST 2023 | `responded to Brenda from Robertson lab about shared space and Robertson speceific space on Discovery`
 Tue Feb 21 14:39:49 EST 2023 | `attended meeting repro stuff from 1 to 2pm`
 Tue Feb 21 14:39:28 EST 2023 | `met with Yarik about reprostim and about heudiconv conversion pipeline`
